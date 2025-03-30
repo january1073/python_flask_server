@@ -1,4 +1,4 @@
-## simple_flask_server
+## python_flask_server
 - server1.py: Simple Flask server
 - server2.py: Flask server with set response status code
 - server3.py: Flask server processing input arguments
